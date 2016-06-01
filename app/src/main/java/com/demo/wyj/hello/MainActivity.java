@@ -16,6 +16,11 @@ public class MainActivity extends AppCompatActivity {
         //没加引号
 
         tv = (TextView) findViewById(R.id.tv);
+
+
+
+
+
     }
 
     private void test(){

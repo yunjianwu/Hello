@@ -10,7 +10,15 @@
     tools:context="com.demo.wyj.hello.MainActivity">
 
     <TextView
+        android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv"
+        android:src="@mipmap/ic_launcher"
+        android:background="@android:color/background_dark"
+        />
 </RelativeLayout>

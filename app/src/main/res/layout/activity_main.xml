@@ -9,6 +9,9 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.demo.wyj.hello.MainActivity">
 
+
+
+
     <TextView
         android:id="@+id/tv"
         android:layout_width="wrap_content"

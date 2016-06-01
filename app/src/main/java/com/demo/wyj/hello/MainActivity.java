@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test(){
-
+        System.out.println("好啊好啊");
     }
 }

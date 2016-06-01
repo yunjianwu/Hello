@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //没加引号
+
         tv = (TextView) findViewById(R.id.tv);
     }
 
